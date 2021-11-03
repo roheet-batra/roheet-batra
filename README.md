@@ -2,10 +2,10 @@ Hello Visitor,
 
 Glad to e-meet you!
 
-- 👋 Hi, I’m Rohit Batra. I am a fresher to this field, coming from a Non-tech (Sales and Marketing) background. Looking forward to collaborating with the Data Science community to learn and grow.
+- 👋 Hi, I’m Rohit Batra. I am a fresher to this field, coming from a Non-tech (Sales and Marketing) background. 
 - 👀 I’m interested in ...Data Anlytics
 - 🌱 I’m currently pursuing Data Science @ IIIT Banglore
-- 💞️ I’m looking to collaborate on ...Data Science Projects
+- 💞️ I’m looking to collaborate with the Data Science community on ... EDA and ML Projects
 - 📫 How to reach me ...[Linkedin](https://www.linkedin.com/in/rohit-batra/) & [mail](rohitbatra027@gmail.com)
 
 <!---
